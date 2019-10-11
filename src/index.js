@@ -1,5 +1,5 @@
 module.exports = function check(str, bracketsConfig) {
-  let i = 0;
+
   for(let i=0; i<str.length; i++) 
   {
     let j = 0;
